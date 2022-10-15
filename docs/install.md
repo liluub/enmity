@@ -13,6 +13,12 @@ Use Trollstore for any devices on ....
 Use Altstore for all iOS devices 
 Use sideloadly if you get an error about unsupported devices in altstore.
 
+### Windows Warning
+For Windows, please make sure you have the non Microsoft version of iTunes installed. If you do not have it, install the non Microsoft Store version from: 
+[x64](https://www.apple.com/itunes/download/win64/)
+[x32](https://www.apple.com/itunes/download/win32/)
+Additionally, although iCloud is not required, installing it does seem to help resolve some issues users have been reporting. You can install the non Microsoft Store version from the [official Apple download link.](https://updates.cdn-apple.com/2020/windows/001-39935-20200911-1A70AA56-F448-11EA-8CC0-99D41950005E/iCloudSetup.exe)
+
 ## AltStore
 
 To install Enmity without jailbreaking, you may use AltStore. [You can get AltStore here.](https://altstore.io/)
@@ -28,7 +34,12 @@ You may be prompted on whether you want to keep or remove app extensions, it is 
 
 Enmity should now be on your home screen.
 ## Installation With Sideloadly
+### Enable Wi-Fi Sync
+Windows: Open iTunes > Connected Device > Summary > Options > Enable "Sync with this iDevice over Wi-Fi" option > Sync & Done.
+### Fix Device not Supported
+Enable 'Remove limitation on supported devices' under advanced options in Sideloadly then sign again.
 
+ 
 ## Installation With TrollStore
 With AltStore loaded on your device, you can go to (https://enmity-web-installer.vercel.app/) to download the app.
 
