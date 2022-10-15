@@ -66,3 +66,4 @@ Open the TrollStore app and press "Install ldid" in the Settings tab, then read 
 Credits:
 NTTS for the Altstore tutorial.
 Tenzin for the Enmity Web Installer.
+https://faq.altstore.io/getting-started/how-to-install-altstore-macos
