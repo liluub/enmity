@@ -1,30 +1,27 @@
 # Installation Guide
-
-You can install Enmity as a tweak (Jailbroken only) or as a sideloaded app (Jailbroken & Unjailbroken). IOS ONLY!!!
+You can install Enmity as a tweak (Jailbroken only) or as a sideloaded app (Jailbroken & Unjailbroken). iOS ONLY ATM
 
 # Get Enmity as a Tweak (Jailbroken Only)
-
 The tweak is available via our repo at [repo.enmity.app](https://repo.enmity.app).
 
 # Sideload Enmity (Non-Jailbroken & Jailbroken)
+### The Three easiest Ways To Install Is By Altstore, Trollstore, or Sideloadly.
+Use TrollStore for any devices on on iOS 15-15.4.1, on iOS 15.5 beta 1 - iOS 15.5 beta 4, on iOS 15.6 beta 1 - iOS 15.6 beta 5. (No 15.5 or 15.6 non-beta support)
+Use AltStore for all iOS devices 
+Use Sideloadly if you get an error about unsupported devices in altstore.
 
-The three easiest ways to install is by Altstore, Trollstore, or Sideloadly.
-Use Trollstore for any devices on ....
-Use Altstore for all iOS devices 
-Use sideloadly if you get an error about unsupported devices in altstore.
-
-### Windows Warning
+### ⚠️ Warning For Windows Users ⚠️
 For Windows, please make sure you have the non Microsoft version of iTunes installed. If you do not have it, install the non Microsoft Store version from: 
 [x64](https://www.apple.com/itunes/download/win64/)
 [x32](https://www.apple.com/itunes/download/win32/)
-Additionally, although iCloud is not required, installing it does seem to help resolve some issues users have been reporting. You can install the non Microsoft Store version from the [official Apple download link.](https://updates.cdn-apple.com/2020/windows/001-39935-20200911-1A70AA56-F448-11EA-8CC0-99D41950005E/iCloudSetup.exe)
+Additionally, although iCloud is not required, installing it does help resolve some issues.
+You can install the non Microsoft Store version from the [official Apple download link.](https://updates.cdn-apple.com/2020/windows/001-39935-20200911-1A70AA56-F448-11EA-8CC0-99D41950005E/iCloudSetup.exe)
 
 ## AltStore
-
 To install Enmity without jailbreaking, you may use AltStore. [You can get AltStore here.](https://altstore.io/)
 
 ### Installation With AltStore
-How To install [AltStore Video Tutorial](https://www.youtube.com/watch?v=oXpx54FK4nc)
+How To install AltStore on Windows [Video Tutorial](https://www.youtube.com/watch?v=oXpx54FK4nc)
 
 Or 
 <!--(insert new guide or other tutorial text wise)-->
@@ -33,37 +30,27 @@ Just click "Install now and follow the prompts in AltStore App.
 You may be prompted on whether you want to keep or remove app extensions, it is recommended that you select "Remove App Extensions."
 
 Enmity should now be on your home screen.
+
 ## Installation With Sideloadly
+[Tutorial]https://www.idownloadblog.com/2022/03/28/sideload-apps-iphone-ipad-apple-silicon-macs-sideloady/
+For Windows follow the same steps but instead just ddownload the installer run it then open the app.
+
 ### Enable Wi-Fi Sync
 Windows: Open iTunes > Connected Device > Summary > Options > Enable "Sync with this iDevice over Wi-Fi" option > Sync & Done.
+
 ### Fix Device not Supported
 Enable 'Remove limitation on supported devices' under advanced options in Sideloadly then sign again.
 
  
 ## Installation With TrollStore
-With AltStore loaded on your device, you can go to (https://enmity-web-installer.vercel.app/) to download the app.
+Use my Custom Shortcut to autoupdate Enmity and trollstore [install here]
+Follow the notifications and prompts.
+Step By Step
 
-You will be asked if you want to download the file, tap "Download" then, open the Files app and navigate to the downloads folder on your device, and press the button to share the file, where you will see an option to share it with AltStore.
-
-You may be prompted on whether you want to keep or remove app extensions, it is recommended that you do not select "Remove App Extensions" if you want notifications.
-
-Emnity should now be on your home screen.
-
-An alert should appear, tap "Install".
-
-When the installation is finished, you will find a "GTA Car Tracker" application on your device.
-
-If this app has not appeared, that's a stock iOS bug, reboot your device and it will appear.
-
-Launch the app, tap "Install TrollStore".
-
-Wait a few seconds, your device should respring and TrollStore will be installed.
-
-You can now either delete the "GTA Car Tracker" app, or register it as the persistence helper by opening it and tapping the option at the bottom and keep it.
-
-Open the TrollStore app and press "Install ldid" in the Settings tab, then read the information under "Persistence", and install the Persistence Helper into a system app if you want persistence (not needed if you registered the GTA Car Tracker app as the persistence helper in step 7).
+Or Use the Trollstore github and once installed get your ipa from here [] and click open in troll store 
 
 Credits:
 NTTS for the Altstore tutorial.
 Tenzin for the Enmity Web Installer.
 https://faq.altstore.io/getting-started/how-to-install-altstore-macos
+
